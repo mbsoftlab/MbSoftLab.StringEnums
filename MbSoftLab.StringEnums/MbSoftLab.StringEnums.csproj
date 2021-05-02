@@ -3,11 +3,17 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>0.0.1</Version>
-	<PackageVersion>0.0.1-preview</PackageVersion>
+    <Version>0.0.2</Version>
+	<PackageVersion>0.0.2-preview</PackageVersion>
+	<Copyright>© 2021 MbSoftLab</Copyright>
+	<PackageIcon>MbSoftLabLogo.png</PackageIcon>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>StringEnums can decorate Enums with custom Strings.</Description>
     <PackageReleaseNotes>This is the first release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/mbsoftlab/MbSoftLab.StringEnums</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mbsoftlab/MbSoftLab.StringEnums</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>String Enum Extensions StringEnum</PackageTags>
   </PropertyGroup>
 
 </Project>
