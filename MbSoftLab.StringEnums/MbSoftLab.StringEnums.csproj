@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>0.0.1</Version>
-  	<PackageVersion>0.0.1-preview2</PackageVersion>
+  	<PackageVersion>0.0.1</PackageVersion>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   	<Copyright>© 2021 MbSoftLab</Copyright>
 	<PackageIcon>MbSoftLabLogo.png</PackageIcon>
