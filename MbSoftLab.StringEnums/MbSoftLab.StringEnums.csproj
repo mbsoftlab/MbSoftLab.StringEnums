@@ -7,6 +7,8 @@
   	<PackageVersion>0.0.1-preview2</PackageVersion>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   	<Copyright>© 2021 MbSoftLab</Copyright>
+	<PackageIcon>MbSoftLabLogo.png</PackageIcon>
+    <PackageIconUrl />
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>StringEnums can decorate Enums with custom Strings.</Description>
     <PackageReleaseNotes>This is the first release</PackageReleaseNotes>
@@ -15,5 +17,10 @@
     <RepositoryType>Git</RepositoryType>
     <PackageTags>String Enum Extensions StringEnum</PackageTags>
   </PropertyGroup>
-
+	<ItemGroup>
+		<None Include="MbSoftLabLogo.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
 </Project>

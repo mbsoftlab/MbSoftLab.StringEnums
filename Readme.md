@@ -1,5 +1,11 @@
 ﻿# MbSoftLab.StringEnums
 
+[![CodeFactor](https://www.codefactor.io/repository/github/mbsoftlab/mbsoftlab.stringenums/badge)](https://www.codefactor.io/repository/github/mbsoftlab/mbsoftlab.stringenums)
+
+[![Release](https://github.com/mbsoftlab/MbSoftLab.StringEnums/actions/workflows/Release.yml/badge.svg?branch=master)](https://github.com/mbsoftlab/MbSoftLab.StringEnums/actions/workflows/Release.yml)
+
+[![BuildFromMaster](https://github.com/mbsoftlab/MbSoftLab.StringEnums/actions/workflows/BuildFromMaster.yml/badge.svg?branch=master)](https://github.com/mbsoftlab/MbSoftLab.StringEnums/actions/workflows/BuildFromMaster.yml)
+
 ## Description 
 
 MbSoftLab.StringEnums can help you to decorate Enums with custom Strings
