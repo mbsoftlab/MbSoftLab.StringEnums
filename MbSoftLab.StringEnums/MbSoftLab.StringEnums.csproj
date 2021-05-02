@@ -4,9 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>0.0.1</Version>
-	<PackageVersion>0.0.1-preview2</PackageVersion>
-	<Copyright>© 2021 MbSoftLab</Copyright>
-	<PackageIcon>MbSoftLabLogo.png</PackageIcon>
+  	<PackageVersion>0.0.1-preview2</PackageVersion>
+  	<Copyright>© 2021 MbSoftLab</Copyright>
+	  <PackageIcon>MbSoftLabLogo.png</PackageIcon>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>StringEnums can decorate Enums with custom Strings.</Description>
     <PackageReleaseNotes>This is the first release</PackageReleaseNotes>
