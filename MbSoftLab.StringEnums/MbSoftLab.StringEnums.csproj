@@ -6,7 +6,7 @@
     <Version>0.0.1</Version>
   	<PackageVersion>0.0.1-preview2</PackageVersion>
   	<Copyright>© 2021 MbSoftLab</Copyright>
-	<PackageIconUrl>https://avatars.githubusercontent.com/u/50733221?v=4</PackageIconUrl>
+	<PackageIcon>https://avatars.githubusercontent.com/u/50733221?v=4</PackageIcon>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Description>StringEnums can decorate Enums with custom Strings.</Description>
     <PackageReleaseNotes>This is the first release</PackageReleaseNotes>
